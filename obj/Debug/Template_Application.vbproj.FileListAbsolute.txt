@@ -1,0 +1,79 @@
+D:\Projects\Template_Application\bin\Debug\Customer Setup Form.exe.config
+D:\Projects\Template_Application\obj\Debug\ResolveAssemblyReference.cache
+D:\Projects\Template_Application\bin\Debug\Customer Setup Form.exe.manifest
+D:\Projects\Template_Application\bin\Debug\Customer Setup Form.application
+D:\Projects\Template_Application\bin\Debug\Customer Setup Form.exe
+D:\Projects\Template_Application\bin\Debug\Customer Setup Form.pdb
+D:\Projects\Template_Application\bin\Debug\Customer Setup Form.xml
+D:\Projects\Template_Application\bin\Debug\Microsoft.Office.Interop.Excel.dll
+D:\Projects\Template_Application\bin\Debug\Microsoft.Office.Interop.Word.dll
+D:\Projects\Template_Application\bin\Debug\Microsoft.ReportViewer.Common.dll
+D:\Projects\Template_Application\bin\Debug\Microsoft.ReportViewer.WinForms.dll
+D:\Projects\Template_Application\bin\Debug\office.dll
+D:\Projects\Template_Application\bin\Debug\Microsoft.ReportViewer.WinForms.xml
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_TemplateChargeEvent_Edit.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_TemplateChargeUnit_list.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_TemplateProduct_list.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_TemplateProduct_Edit.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.MDI_Frm.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Resources.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.FrmBrowser.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.FrmConfiguration.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.FrmPrint_InputDescription.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.FrmReport.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.FrmReport_Muti.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_BaseRate_Entry.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_BaseRate_List.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_Client_List.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Account.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Category.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_FeeCharging_Edit.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_FeeCharging_List.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_FeeCharging_Select.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Interface_Mnt_Edit.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Interface_Mnt_List.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Product_ChargePackageRev_Edit.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Product_ChargePackageRev_List.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Product_Library.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Product_Library_Edit.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Product_SelectMyProduct.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_ReportCatery.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Revision_Print.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Revision_Select.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_UserCategory.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_LookupData.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_RMS_Edit.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_RMS_Edit_Detail.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_tracking_Customer_communication.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_tracking_Customer_Maintenance.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_tracking_task.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.frm_user_entry.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.frm_user_list.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.LoginForm.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.XXXX_Frm_DealSummary_User_Category.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.xxx_Frm_DealSummary_auth_avm.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.xxxx_Frm_DealSummary_auth_lv.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_auth.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Interface.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_List.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_main.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_Product.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_DealSummary_User.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_ImportData.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_Maintainance_Status_Entry.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_Maintainance_Status_List.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_RestoreData.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_TemplateChargeUnit_list_pre_entry.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_TemplateChargeUnit_Select.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_TemplateChargeUnit_Edit.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_TemplateChargeUnit_Wizard.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_TemplateProduct_Select.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_Print_TemplateCharge.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.Frm_Print_TemplateProduct.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.SplashScreen.resources
+D:\Projects\Template_Application\obj\Debug\Template_Application.vbproj.GenerateResource.Cache
+D:\Projects\Template_Application\obj\Debug\Customer Setup Form.exe.manifest
+D:\Projects\Template_Application\obj\Debug\Customer Setup Form.application
+D:\Projects\Template_Application\obj\Debug\Customer Setup Form.exe
+D:\Projects\Template_Application\obj\Debug\Customer Setup Form.xml
+D:\Projects\Template_Application\obj\Debug\Customer Setup Form.pdb

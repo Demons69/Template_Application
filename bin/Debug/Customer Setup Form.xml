@@ -1,0 +1,39 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+CustomerSetupForm
+</name>
+</assembly>
+<members>
+<member name="M:Template_Application.Frm_DealSummary_main.ShowCompanyName">
+	<summary>
+ Fixed bug: realease note 0.35
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Template_Application.Frm_DealSummary_User.FillGridAccount">
+	<summary>
+ Fixed bug: Release note 0.35
+ </summary>
+	<remarks></remarks>
+</member><member name="M:Template_Application.Frm_DealSummary_Revision_Print.ValidateRevision(System.String)">
+	<summary>
+	</summary>
+	<returns></returns>
+	<remarks></remarks>
+</member><member name="P:Template_Application.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:Template_Application.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="T:Template_Application.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
